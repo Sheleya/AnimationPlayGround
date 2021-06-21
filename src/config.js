@@ -12,6 +12,7 @@ import DynamicSpring from './DynamicSpring';
 import DragToSort from './DragToSort';
 import SwipeButton2 from './SwipeButton2';
 import AnimatedFlatList from './AnimatedFlatList';
+import DoubledSidedGallery from './DoubledSidedGallery';
 
 export const PLAYGROUNDS = {
   hideShow: HideShowCard,
@@ -28,4 +29,5 @@ export const PLAYGROUNDS = {
   dragToSort: DragToSort,
   swipeButton_2: SwipeButton2,
   animated_flat_list_2: AnimatedFlatList,
+  doubledSidedGallery: DoubledSidedGallery,
 };

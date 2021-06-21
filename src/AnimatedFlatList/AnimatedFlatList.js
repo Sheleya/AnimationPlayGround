@@ -78,7 +78,6 @@ export default () => {
 
   return (
     <View style={styles.container}>
-      <Text style={animStyles}>Heeloo</Text>
       <AnimatedFlatList
         scrollEventThrottle={16}
         contentContainerStyle={{padding: SPACING}}
